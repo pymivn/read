@@ -1,4 +1,4 @@
-# read - Tổng hợp các link hữu ích cho lập trình viên Python
+# read - Tổng hợp các link hữu ích cho lập trình viên
 
 Hàng ngày, các lập trình viên vẫn lên mạng tìm kiếm những tài liệu để mở rộng hiểu biết, nâng cao trình độ.
 
