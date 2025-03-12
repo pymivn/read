@@ -16,8 +16,12 @@ Các tài liệu này được chọn lọc với tiêu chí thực tế, cần 
 ### OS
 - en, intermediate, [Putting the “You” in CPU](https://github.com/hackclub/putting-the-you-in-cpu/), giải thích cách hệ điều hành chạy 1 chương trình, từ CPU, register, assembly, machine code, ELF, process, virtual memory, syscall, paging, linking tới Linux fork & COW.
 
+### Code design
+- en, intermediate, ["A Philosophy of Software Design" and "Clean Code"](https://github.com/johnousterhout/aposd-vs-clean-code), so sách sự giống và khác giữa triết lý design code trong 2 cuốn sách "A Philosophy of Software Design" và "Clean Code". Nên mua và đọc "A Philosophy of Software Design" để bíết thêm chi tiết.
+- en, intermediate, [Chapter 1 - 99 Bottles of OOP by Sandi Metz](https://sandimetz.com/99bottles-sample-python) - giải bài "99 bottles of beer", 1 bài code đơn giản nhưng có thể giải theo nhiều cách khác nhau, từ đó rút ra kết luận code thế nào là "tốt"/"xấu" dựa trên metric đo được thay vì cảm tính cá nhân. Nên mua và đọc "99 Bottles of OOP" để biết thêm chi tiết.
+
 ### Database
-- en, intermediate, [SQLite query planning](https://sqlite.org/queryplanner.html), giới thiệu cách hoạt động của index, cacách sử dụng index để tăng tốc độ truy cập database. Kiến thưcs hữu ý với mọi SQL database.
+- en, intermediate, [SQLite query planning](https://sqlite.org/queryplanner.html), giới thiệu cách hoạt động của index, cách sử dụng index để tăng tốc độ truy cập database. Kiến thưcs hữu ý với mọi SQL database.
 
 ### Network
 - en, intermediate, [network protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147), bài viết ngắn giới thiệu về các khái niệm network cần thiết cho lập trình viên, bất kỳ ngôn ngữ nào.
